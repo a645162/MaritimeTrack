@@ -23,6 +23,8 @@ MaritimeTrack is a benchmark for tracking multiple objects, specifically designe
 
 ## Paper
 
+Comming soon.
+
 ## News
 
 More statistics will be coming soon.
@@ -44,6 +46,9 @@ If you are a Chinese Researcher, we suggest you to use `Baidu Drive`.
  or 
 [Quark Drive]()
 . -->
+
+<!-- ![Video Info Sheet (Google Sheets)]() -->
+<!-- ![Video Info Sheet (Feishu)]() -->
 
 Comming soon.
 
