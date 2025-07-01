@@ -13,13 +13,37 @@
 
 ![](./Resource/separate.png)
 
-MaritimeTrack is a benchmark for tracking multiple objects, specifically designed for maritime scenarios. It provides a comprehensive dataset and standardized evaluation protocols to facilitate the development and comparison of multi-object tracking methods in challenging maritime environments.
+**MaritimeTrack** is a benchmark for tracking multiple objects, specifically designed for maritime scenarios. It provides a comprehensive dataset and standardized evaluation protocols to facilitate the development and comparison of multi-object tracking methods in challenging maritime environments.
 
 <div align="center">
 
 [[Home Page]](https://a645162.github.io/MaritimeTrack/) | [[Github]](https://github.com/a645162/MaritimeTrack) | [[Paper]]()
 
 </div>
+
+## Introduction video
+
+<div align="center">
+
+[[Youtube]](https://youtu.be/Yrw_Zs_g0b8) | [[Bilibili]](https://www.bilibili.com/video/BV1WFN9zDEh4/)
+
+</div>
+
+<p align="center">
+
+  <br/>
+
+  <iframe loading="lazy" width="720" height="405" src="https://www.youtube.com/embed/Yrw_Zs_g0b8"
+    title="YouTube video player" frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+
+  <br/>
+
+  <strong>Watch:</strong> MaritimeTrack: A large-scale Multi-Scene and Multi-Environment Multi-Object Tracking Dataset.
+  
+</p>
 
 ## Paper
 
