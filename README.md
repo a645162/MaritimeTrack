@@ -1,11 +1,11 @@
 # MaritimeTrack
 
 <div align="center">
-  <p>
-    <a href="https://github.com/a645162/MaritimeTrack" target="_blank">
-    <img src="./Resource/Logo/MaritimeTrackLogo.svg" alt="Logo" width="200"/>
-    </a>
-</p>
+    <p>
+        <a href="https://github.com/a645162/MaritimeTrack" target="_blank">
+            <img src="./Resource/Logo/MaritimeTrackLogo.svg" alt="Logo" width="200"/>
+        </a>
+    </p>
 
 <!-- [English](README.md) | [简体中文](README_zh-CN.md) -->
 
@@ -29,21 +29,19 @@
 
 </div>
 
-<p align="center">
+<div align="center">
 
-  <br/>
-
-  <iframe loading="lazy" width="720" height="405" src="https://www.youtube.com/embed/Yrw_Zs_g0b8"
+  <iframe
+    loading="lazy" width="720" height="405" src="https://www.youtube.com/embed/Yrw_Zs_g0b8"
     title="YouTube video player" frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen>
   </iframe>
 
-  <br/>
-
-  <strong>Watch:</strong> MaritimeTrack: A large-scale Multi-Scene and Multi-Environment Multi-Object Tracking Dataset.
-  
-</p>
+  <p align="center">
+        <strong>Watch:</strong> MaritimeTrack: A large-scale Multi-Scene and Multi-Environment Multi-Object Tracking Dataset.
+  </p>
+</div>
 
 ## Paper
 
@@ -217,6 +215,7 @@ Please refer to [mot-toolkit](https://github.com/a645162/mot-toolkit).
 ### Haomin Kong (孔昊旻)
 
 **Notice:**
+
 * If you have any questions, please report them **use the GitHub Issues**!
 
 [[GitHub: @a645162]](https://github.com/a645162)
