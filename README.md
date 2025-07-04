@@ -40,7 +40,13 @@
     allowfullscreen>
   </iframe> -->
 
-  [![MaritimeTrack Introduction Video](https://img.youtube.com/vi/Yrw_Zs_g0b8/0.jpg)](https://www.youtube.com/watch?v=Yrw_Zs_g0b8)
+    <!-- https://typorachina.com/articles/1701118879542.html -->
+
+  <!-- [![MaritimeTrack Introduction Video](https://img.youtube.com/vi/Yrw_Zs_g0b8/0.jpg)](https://www.youtube.com/watch?v=Yrw_Zs_g0b8) -->
+
+  <a href="https://www.youtube.com/watch?v=Yrw_Zs_g0b8" target="_blank">
+    <img src="https://img.youtube.com/vi/Yrw_Zs_g0b8/0.jpg" alt="MaritimeTrack Introduction Video" width="720" height="405"/>
+  </a>
 
   <br/>
 
